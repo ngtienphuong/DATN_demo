@@ -1,0 +1,30 @@
+.admin-main{
+    background-color: white;
+    padding: 10px;
+}
+.admin-main tr{
+    padding: 10px;
+}
+.admin-main td{
+    border: solid 1px black;
+}
+
+.btn{
+    border: 1.7px solid rgb(42, 132, 63);
+    color: rgb(42, 132, 63);
+    padding: 7px 40px;
+  }
+  .btn:hover{
+    background-color: #0E0;
+    color: white;
+    border: 1px solid red;
+  }
+
+.img-admin{
+    height: 70px;
+}
+
+.input-admin{
+    margin: 5px 0;
+    padding: 10px 10px;
+}

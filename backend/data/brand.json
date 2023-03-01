@@ -1,0 +1,429 @@
+{
+    "brand": [
+        {
+            "name": "Aquafina",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/aquafina-15092022164854.jpg"
+        },
+        {
+            "name": "Dasani",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/dasani-0404202118112.jpg"
+        },
+        {
+            "name": "La Vie",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/la-vie-06042021245.jpg"
+        },
+        {
+            "name": "Vĩnh Hảo",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/vinh-hao-0504202117741.jpg"
+        },
+        {
+            "name": "Saka",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/saka-1102202210120.jpg"
+        },
+        {
+            "name": "Coca",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/coca-cola-2309202010534.png"
+        },
+        {
+            "name": "Pepsi",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/pepsi-16092022133138.jpg"
+        },
+        {
+            "name": "7up",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/7-up-15092022163913.jpg"
+        },
+        {
+            "name": "Mirinda",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/mirinda-1609202213448.jpg"
+        },
+        {
+            "name": "Fanta",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/fanta-15032021112040.jpg"
+        },
+        {
+            "name": "Tiger",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/tiger-05042021152840.jpg"
+        },
+        {
+            "name": "SaiGon",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/sai-gon-05042021222144.jpg"
+        },
+        {
+            "name": "Heineken",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/heineken-260920209475.png"
+        },
+        {
+            "name": 333,
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/333-2109202085448.png"
+        },
+        {
+            "name": "Larue",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/larue-26092020203821.png"
+        },
+        {
+            "name": "Huda",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/huda-060420210132.jpg"
+        },
+        {
+            "name": "Ruby",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/ruby-22122021195522.jpg"
+        },
+        {
+            "name": "Strongbow",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/strongbow-0504202111231.jpg"
+        },
+        {
+            "name": "Beck's",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/becks-1503202122611.jpg"
+        },
+        {
+            "name": "NesCafe",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/nescafe-14032021235351.jpg"
+        },
+        {
+            "name": "Kim Anh",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/kim-anh-0604202114943.jpg"
+        },
+        {
+            "name": "Lama",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/lama-03042021111439.jpeg"
+        },
+        {
+            "name": "Highlands",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/highlands-060420210018.jpg"
+        },
+        {
+            "name": "The JUN",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/the-jun-0504202115850.jpg"
+        },
+        {
+            "name": "Lion",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/lion-1403202122193.jpg"
+        },
+        {
+            "name": "Neptune",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/neptune-1008202213754.png"
+        },
+        {
+            "name": "Aji-ngon",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/aji-ngon-1609202112819.jpeg"
+        },
+        {
+            "name": "Maggi",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/maggi-01112020194450.jpg"
+        },
+        {
+            "name": "Ajinomoto",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/ajinomoto-03042021235634.jpg"
+        },
+        {
+            "name": "Natafoods",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/natafoods-28052021144845.jpeg"
+        },
+        {
+            "name": "Miwon",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/miwon-14032021224227.jpg"
+        },
+        {
+            "name": "Vedan Yess",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/yess-05042021175120.jpg"
+        },
+        {
+            "name": "Cholimex",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/cholimex-04042021165746.jpg"
+        },
+        {
+            "name": "Vedan",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/vedan-05042021163045.jpg"
+        },
+        {
+            "name": "Jamono",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/jamono-0608202116166.jpg"
+        },
+        {
+            "name": "Dh Foods",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/dh-foods-06042021102352.jpg"
+        },
+        {
+            "name": "Thuận Phát",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/thuan-phat-0504202115192.jpg"
+        },
+        {
+            "name": "Farmers",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/farmers-1911202011527.jpg"
+        },
+        {
+            "name": "Vipep",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/vipep-05042021171036.jpg"
+        },
+        {
+            "name": "Lee Kum",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/lee-kum-kee-0404202118204.jpg"
+        },
+        {
+            "name": "Vị Hảo",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/vi-hao-05042021163350.jpg"
+        },
+        {
+            "name": "Phú Sĩ",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/phu-si-15032021115534.jpg"
+        },
+        {
+            "name": "Nam Dương",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/nam-duong-24102022144818.png"
+        },
+        {
+            "name": "Liên Thành",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/lien-thanh-1403202122184.jpg"
+        },
+        {
+            "name": "Nha Trang"
+        },
+        {
+            "name": "Thanh Hà",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/thanh-ha-0504202115151.jpg"
+        },
+        {
+            "name": "Phú Quốc",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/phu-quoc-06042021102612.jpg"
+        },
+        {
+            "name": "Rin"
+        },
+        {
+            "name": "Tường An",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/tuong-an-0504202116136.jpg"
+        },
+        {
+            "name": "Nakydaco",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/nakydaco-1503202116401.jpg"
+        },
+        {
+            "name": "Simply",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/simply-06052022122049.png"
+        },
+        {
+            "name": "Happi Koki",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/happi-koki-0504202123508.jpg"
+        },
+        {
+            "name": "Olita",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/olita-1503202195447.jpg"
+        },
+        {
+            "name": "Janbee",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/janbee-0604202102316.jpg"
+        },
+        {
+            "name": "Parrot",
+            "image": "https:\/\/cdn.tgdd.vn\/Brand\/11\/parrot-2809202217015.png"
+        },
+        {
+            "name": "Safeguard"
+        },
+        {
+            "name": "Lifebuoy"
+        },
+        {
+            "name": "Puri"
+        },
+        {
+            "name": "Airy"
+        },
+        {
+            "name": "Bioré"
+        },
+        {
+            "name": "Hapicare"
+        },
+        {
+            "name": "Coslive"
+        },
+        {
+            "name": "Antabax"
+        },
+        {
+            "name": "Kleen"
+        },
+        {
+            "name": "Onzen"
+        },
+        {
+            "name": "L'ovité"
+        },
+        {
+            "name": "Felina"
+        },
+        {
+            "name": "Mellsavon"
+        },
+        {
+            "name": "Pantene"
+        },
+        {
+            "name": "Head & Shoulders"
+        },
+        {
+            "name": "Megumi"
+        },
+        {
+            "name": "Kerasys"
+        },
+        {
+            "name": "Rejoice"
+        },
+        {
+            "name": "Reveus"
+        },
+        {
+            "name": "Old Spice"
+        },
+        {
+            "name": "Softly"
+        },
+        {
+            "name": "Yuniku"
+        },
+        {
+            "name": "Tempo"
+        },
+        {
+            "name": "KinKin"
+        },
+        {
+            "name": "Pulppy"
+        },
+        {
+            "name": "Lency"
+        },
+        {
+            "name": "Vina Bích Chi"
+        },
+        {
+            "name": "Vifon"
+        },
+        {
+            "name": "Đệ Nhât"
+        },
+        {
+            "name": "Hằng Nga"
+        },
+        {
+            "name": "Chinsu"
+        },
+        {
+            "name": "Chisu"
+        },
+        {
+            "name": "Nhịp Sống"
+        },
+        {
+            "name": "Phú Hương"
+        },
+        {
+            "name": "I.Soup"
+        },
+        {
+            "name": "Gấu Đỏ"
+        },
+        {
+            "name": "Yến Việt"
+        },
+        {
+            "name": "Cây Thị"
+        },
+        {
+            "name": "SG Food"
+        },
+        {
+            "name": "Hảo Hảo"
+        },
+        {
+            "name": "3 Miền"
+        },
+        {
+            "name": "Mama"
+        },
+        {
+            "name": "Modern"
+        },
+        {
+            "name": "Kokomi"
+        },
+        {
+            "name": "Omachi"
+        },
+        {
+            "name": "Phương Nam"
+        },
+        {
+            "name": "Vinamilk"
+        },
+        {
+            "name": "Ông Thọ"
+        },
+        {
+            "name": "Hoàn Hảo"
+        },
+        {
+            "name": "Dutch Lady"
+        },
+        {
+            "name": "Nutimilk"
+        },
+        {
+            "name": "Lamosa"
+        },
+        {
+            "name": "Ensure"
+        },
+        {
+            "name": "Anlene"
+        },
+        {
+            "name": "LiF Kun"
+        },
+        {
+            "name": "Nutriboost"
+        },
+        {
+            "name": "YoMost"
+        },
+        {
+            "name": "Fristi"
+        },
+        {
+            "name": "Susu"
+        },
+        {
+            "name": "TH True Yogurt"
+        },
+        {
+            "name": "Meadow"
+        },
+        {
+            "name": "Zambrowskie"
+        },
+        {
+            "name": "Vherbs Shan"
+        },
+        {
+            "name": "TNI"
+        },
+        {
+            "name": "LiF"
+        },
+        {
+            "name": "Fuze"
+        },
+        {
+            "name": "C2"
+        },
+        {
+            "name": "Twister"
+        },
+        {
+            "name": "Star Kobucha"
+        } 
+    ]
+}

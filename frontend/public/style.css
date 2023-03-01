@@ -1,0 +1,163 @@
+#root {
+  margin: 0 auto;
+  /* background-color: rgb(245, 245, 245); */
+  background-color: #e9edf0;
+}
+
+.active {
+  background-color: #0E0;
+}
+
+.search {
+  height: 30px;
+}
+
+.input-search {
+  padding-left: 10px;
+  border: none;
+  outline: none;
+  color: #9DBFAF;
+}
+
+.input-search:focus {
+  color: #090909;
+}
+
+.btnSearch {
+  margin-left: 2px;
+  border: none;
+}
+
+.null {
+  line-height: 300px;
+  font-size: 50px;
+  height: 300px;
+}
+
+/*LOGO*/
+/*HEADER*/
+.header {
+  position: sticky;
+  width: 100%;
+  top: 0px;
+}
+
+#nav {
+  background-color: #FF9900;
+  /* background-color:#0E0; */
+}
+
+/*SEARCH*/
+
+.nav-item:hover {
+  background-color: rgb(4, 146, 240);
+}
+
+.category-hover:hover {
+  background-color: rgb(60, 117, 231);
+}
+
+.btnThanhtoan {
+  display: flex !important;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.product-home {
+  height: 360px;
+  width: 260px;
+  background-color: #fff;
+  margin: 2px 2px;
+}
+
+.product {
+  text-decoration: none;
+  color: #001;
+}
+
+.product:hover {
+  color: #f90;
+}
+
+.productname {
+  font-size: 22px;
+}
+
+#footer {
+  padding: 0 12px;
+  background-color: #fff;
+  margin: 10px 80px 0 370px;
+}
+
+.btn {
+  border: 1.7px solid rgb(42, 132, 63);
+  color: rgb(42, 132, 63);
+  padding: 7px 40px;
+}
+
+.btn:hover {
+  background-color: #0E0;
+  color: white;
+  border: 1px solid red;
+}
+
+.img-thumbnail {
+  border: none;
+}
+
+th {
+  padding-right: 10px;
+}
+
+.imgdetail {
+  padding-left: 50px;
+  height: 300px;
+}
+
+#namepro {
+  font-size: 15px;
+  height: 45px;
+}
+
+label {
+  font-size: 20px;
+}
+
+.toast-message {
+  text-align: center;
+  font-size: 30px;
+  top: 200px;
+  width: 500px;
+  height: 200px;
+}
+
+.imgCart {
+  width: 70px;
+  height: auto;
+}
+
+.deleteCart {
+  cursor: pointer;
+}
+
+.login-button {
+  justify-content: center;
+}
+
+.img-button {
+  width: 30px;
+  margin-right: 20px;
+}
+
+.link {
+  color: black;
+  text-decoration: none;
+}
+
+.button {
+  cursor: pointer;
+  margin: 0 40px;
+  width: 140px;
+  padding: 5px;
+  box-shadow: 3px 3px 5px #A6A9B6;
+}

@@ -1,0 +1,58 @@
+GET http://localhost:4000/dbndvsbndm
+###
+POST http://localhost:4000/api/v1/auth/register
+Content-Type: application/json
+
+{
+    "email": "admin@gmail.com",
+    "password": "123456"
+}
+###
+POST http://localhost:4000/api/v1/auth/login
+Content-Type: application/json
+
+{
+    "email": "admin@gmail.com",
+    "password": "123456"
+}
+###
+GET http://localhost:4000/api/v1/user/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJhZG1pbkBnbWFpbC5jb20iLCJyb2xlIjoiUjMiLCJpYXQiOjE2NzEwOTYzOTYsImV4cCI6MTY3MTA5NjQwMX0.DtnJKYjgwYhb3oqpoS9EgFQea_PqXwyffoJP0TKlBF8
+###
+POST http://localhost:4000/api/v1/category/
+###
+GET http://localhost:4000/api/v1/subcategory/
+###
+GET http://localhost:4000/api/v1/product/
+###
+GET http://localhost:4000/api/v1/product/productcategory/2
+###
+GET http://localhost:4000/api/v1/product/productdetail/1
+###
+GET http://localhost:4000/api/v1/product/product/1
+###
+POST  http://localhost:4000/api/v1/product/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJhZG1pbjJAZ21haWwuY29tIiwicm9sZSI6IlIxIiwiaWF0IjoxNjcwODM2MTg2LCJleHAiOjE2NzEyNjgxODZ9.7wotDlkKVeg83H66o0ISNJwvv4X57t7vhMxoISO1ZGQ
+Content-Type: application/json
+
+{
+    "id": "dbcnj",
+    "name": "dbcnj",
+    "subcat": 12,
+    "quantity":1456,
+    "price":42,
+    "expiry":"22/12/2022",
+    "image": "bdhhy hdgyhd",
+    "type": "dnmc",
+    "nametype": "jdbnc"
+}
+###
+GET http://localhost:4000/api/v1/cart/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiZW1haWwiOiJjbGllbnRAZ21haWwuY29tIiwicm9sZSI6IlIzIiwiaWF0IjoxNjcxNDIwNDYwLCJleHAiOjE2NzE1MDY4NjB9.Y28UePIbwaKVnG26jya2S7ynrTwM0aOGBhife0mRfec
+###
+GET http://localhost:4000/api/v1/insert/brand
+
+###
+GET http://localhost:4000/api/v1/user/list
+###
+GET  http://localhost:4000/api/v1/auth/google
